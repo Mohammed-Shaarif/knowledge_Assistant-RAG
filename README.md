@@ -27,7 +27,8 @@ This script is a Streamlit application designed for working with quantized data 
 - Streamlit
 - Other dependencies as required by your workflow - requirements.txt
 
-##This project was Developed for Exploring Possibilities with RAG
+## This project was Developed for Exploring Possibilities with RAG
+
 
 
 
