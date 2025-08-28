@@ -11,18 +11,24 @@ This script is a Streamlit application designed for working with quantized data 
 ## Usage
 1. Install required dependencies:
    ```bash
-   pip install streamlit
+   pip install -r requirements.txt
    ```
 2. Run the Streamlit app:
    ```bash
    streamlit run quantised_streamlit.py
    ```
-3. Open the provided local URL in your browser to interact with the app.
+
+   it will take few minutes to hour depending on your internet speed to download all three models
+   
+4. Open the provided local URL in your browser to interact with the app.
 
 ## Requirements
 - Python 3.7+
 - Streamlit
 - Other dependencies as required by your workflow - requirements.txt
+
+##This project was Developed for Exploring Possibilities with RAG
+
 
 
 
